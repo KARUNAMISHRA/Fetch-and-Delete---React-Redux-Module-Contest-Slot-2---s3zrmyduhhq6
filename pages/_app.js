@@ -24,6 +24,7 @@ export default function App({ Component, pageProps }) {
   const contextValue = {
     data,
     setData,
+    
     msg,
     setMsg,
   };
